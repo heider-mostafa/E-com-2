@@ -1,0 +1,28 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Shrine E-commerce",
+    "theme_version": "1.0.0",
+    "theme_author": "Your Name",
+    "theme_documentation_url": "https://github.com/your-username/your-theme-repo",
+    "theme_support_url": "https://github.com/your-username/your-theme-repo/issues"
+  },
+  {
+    "name": "Colors",
+    "settings": [
+      {
+        "type": "color",
+        "id": "primary_color",
+        "label": "Primary Color",
+        "default": "#ff4081"
+      },
+      {
+        "type": "color",
+        "id": "secondary_color",
+        "label": "Secondary Color",
+        "default": "#3f51b5"
+      }
+    ]
+  }
+]
+
